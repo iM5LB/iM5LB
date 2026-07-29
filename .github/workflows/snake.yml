@@ -1,0 +1,35 @@
+# Contribution snake — Platane/snk
+# Repo Settings → Actions → General → Workflow permissions → Read and write permissions
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snakes
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: iM5LB
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#e5e5e5&color_dots=#2d3343,#525252,#a3a3a3,#d4d4d4,#ffffff
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

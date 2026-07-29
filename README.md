@@ -1,0 +1,64 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./banner/light.svg" />
+    <img src="./banner/dark.svg" alt="M5LB — profile.sh --live" width="100%" />
+  </picture>
+</div>
+
+<br />
+
+## Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=iM5LB&hide_border=true&background=0A0A0A&border=262626&stroke=262626&ring=94A3B8&fire=A3A3A3&currStreakNum=F5F5F5&sideNums=E5E5E5&currStreakLabel=A3A3A3&sideLabels=737373&dates=525252" alt="GitHub streak" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iM5LB&theme=github_dark" alt="GitHub statistics" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iM5LB&theme=github_dark" alt="Repos by language" width="49%" />
+</div>
+
+<br />
+
+## Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iM5LB/iM5LB/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iM5LB/iM5LB/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/iM5LB/iM5LB/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## Connect
+
+<p align="center">
+  <a href="mailto:14554378@uofn.edu.om"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E5E5E5" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://m5lb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=netlify&logoColor=E5E5E5" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdullah-alghawi-a99966365/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/m5lbdev/"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E5E5E5" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@m5lb1"><img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=E5E5E5" alt="YouTube" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.twitch.tv/m5lbi"><img src="https://img.shields.io/badge/Twitch-0A0A0A?style=for-the-badge&logo=twitch&logoColor=E5E5E5" alt="Twitch" /></a>
+  &nbsp;&nbsp;
+  <a href="https://kick.com/m5lbi"><img src="https://img.shields.io/badge/Kick-0A0A0A?style=for-the-badge&logo=kick&logoColor=E5E5E5" alt="Kick" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@m5lbi"><img src="https://img.shields.io/badge/TikTok-0A0A0A?style=for-the-badge&logo=tiktok&logoColor=E5E5E5" alt="TikTok" /></a>
+</p>
+
+<p align="center">
+  <a href="https://m5lbsmp.com/"><img src="https://img.shields.io/badge/Minecraft_SMP-0A0A0A?style=for-the-badge&logo=minecraft&logoColor=E5E5E5" alt="Minecraft SMP" /></a>
+  &nbsp;&nbsp;
+  <a href="https://m5lb.run.place/"><img src="https://img.shields.io/badge/Plugin_Store-0A0A0A?style=for-the-badge&logo=shopify&logoColor=E5E5E5" alt="Plugin store" /></a>
+  &nbsp;&nbsp;
+  <a href="https://modrinth.com/user/iM5LB1"><img src="https://img.shields.io/badge/Modrinth-0A0A0A?style=for-the-badge&logo=modrinth&logoColor=E5E5E5" alt="Modrinth" /></a>
+</p>
