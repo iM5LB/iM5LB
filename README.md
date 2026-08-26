@@ -22,8 +22,6 @@
         <a href="https://github.com/iM5LB"><img src="https://img.shields.io/badge/GitHub-20231F?style=for-the-badge&logo=github&logoColor=E5E5E5" alt="GitHub" /></a><br/>
         <a href="mailto:14554378@uofn.edu.om"><img src="https://img.shields.io/badge/Email-20231F?style=for-the-badge&logo=gmail&logoColor=E5E5E5" alt="Email" /></a>
       </p>
-      <h3>Now Building</h3>
-      <p>RespBot, RelishTravel, plugin tools, and practical full-stack projects.</p>
     </td>
   </tr>
 </table>
