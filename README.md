@@ -30,9 +30,7 @@
 
 ## Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=iM5LB&hide_border=true&background=0A0A0A&border=262626&stroke=262626&ring=94A3B8&fire=A3A3A3&currStreakNum=F5F5F5&sideNums=E5E5E5&currStreakLabel=A3A3A3&sideLabels=737373&dates=525252" alt="GitHub streak" width="100%" />
-</div>
+[![GitHub streak](https://streak-stats.demolab.com?user=iM5LB&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 <br />
 
