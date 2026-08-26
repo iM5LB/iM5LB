@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/192400896?v=4" alt="Abdullah Al-Ghawi" width="300" />
+  <img src="./banner/avatar-round.png" alt="Abdullah Al-Ghawi" width="300" />
   <h1>Abdullah Al-Ghawi</h1>
   <p><strong>Information Systems graduate from Oman building useful things for the web and the communities that use it.</strong></p>
   <p>
