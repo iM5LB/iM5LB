@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner/avatar.png" alt="Abdullah Al-Ghawi" width="156" />
+  <img src="./banner/profile-card.svg" alt="Abdullah Al-Ghawi" width="300" />
   <h1>Abdullah Al-Ghawi</h1>
   <p><strong>Information Systems graduate from Oman building useful things for the web and the communities that use it.</strong></p>
   <p>
@@ -13,10 +13,6 @@
     <a href="mailto:14554378@uofn.edu.om"><img src="https://img.shields.io/badge/Email-20231F?style=for-the-badge&logo=gmail&logoColor=E5E5E5" alt="Email" /></a>
   </p>
 </div>
-
-<p align="center">
-  <strong>Selected work:</strong> RespBot | RelishTravel | Healthcare Dashboard | FiveM Community Website
-</p>
 
 <br />
 
