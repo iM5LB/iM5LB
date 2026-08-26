@@ -1,18 +1,32 @@
-<div align="center">
-  <img src="./banner/avatar-round.png" alt="Abdullah Al-Ghawi" width="300" />
-  <h1>Abdullah Al-Ghawi</h1>
-  <p><strong>Information Systems graduate from Oman building useful things for the web and the communities that use it.</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Web%20Applications-C95A36?style=for-the-badge&labelColor=20231F&color=20231F" alt="Web applications" />
-    <img src="https://img.shields.io/badge/Automation-C95A36?style=for-the-badge&labelColor=20231F&color=20231F" alt="Automation" />
-    <img src="https://img.shields.io/badge/Minecraft%20Tools-C95A36?style=for-the-badge&labelColor=20231F&color=20231F" alt="Minecraft tools" />
-  </p>
-  <p>
-    <a href="https://m5lb.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-E8D8B6?style=for-the-badge&logo=netlify&logoColor=20231F&labelColor=C95A36&color=E8D8B6" alt="Portfolio" /></a>
-    <a href="https://github.com/iM5LB"><img src="https://img.shields.io/badge/GitHub-20231F?style=for-the-badge&logo=github&logoColor=E5E5E5" alt="GitHub" /></a>
-    <a href="mailto:14554378@uofn.edu.om"><img src="https://img.shields.io/badge/Email-20231F?style=for-the-badge&logo=gmail&logoColor=E5E5E5" alt="Email" /></a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <h3>About Me</h3>
+      <p><strong>Abdullah Al-Ghawi</strong><br/>Information Systems graduate from Oman.</p>
+      <p>I build useful things for the web and the communities that use it.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web%20Applications-C95A36?style=for-the-badge&labelColor=20231F&color=20231F" alt="Web applications" /><br/>
+        <img src="https://img.shields.io/badge/Automation-C95A36?style=for-the-badge&labelColor=20231F&color=20231F" alt="Automation" /><br/>
+        <img src="https://img.shields.io/badge/Minecraft%20Tools-C95A36?style=for-the-badge&labelColor=20231F&color=20231F" alt="Minecraft tools" />
+      </p>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="https://avatars.githubusercontent.com/u/192400896?v=4" alt="Abdullah Al-Ghawi" width="220" />
+      <h2>Abdullah Al-Ghawi</h2>
+      <p><sub>Available for the right project</sub></p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>Links</h3>
+      <p>
+        <a href="https://m5lb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-E8D8B6?style=for-the-badge&logo=netlify&logoColor=20231F&labelColor=C95A36&color=E8D8B6" alt="Portfolio" /></a><br/>
+        <a href="https://github.com/iM5LB"><img src="https://img.shields.io/badge/GitHub-20231F?style=for-the-badge&logo=github&logoColor=E5E5E5" alt="GitHub" /></a><br/>
+        <a href="mailto:14554378@uofn.edu.om"><img src="https://img.shields.io/badge/Email-20231F?style=for-the-badge&logo=gmail&logoColor=E5E5E5" alt="Email" /></a>
+      </p>
+      <h3>Now Building</h3>
+      <p>RespBot, RelishTravel, plugin tools, and practical full-stack projects.</p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
