@@ -1,10 +1,31 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner/dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./banner/light.svg" />
-    <img src="./banner/dark.svg" alt="M5LB — profile.sh --live" width="100%" />
-  </picture>
-</div>
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <h2>Abdullah Al-Ghawi</h2>
+      <p>
+        Information Systems graduate from Oman. I build useful things for the web
+        and the communities that use it.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Web%20Apps-20231F?style=for-the-badge&labelColor=C95A36&color=20231F" alt="Focus on web applications" />
+        <img src="https://img.shields.io/badge/Focus-Automation-20231F?style=for-the-badge&labelColor=C95A36&color=20231F" alt="Focus on automation" />
+        <img src="https://img.shields.io/badge/Focus-Minecraft%20Tools-20231F?style=for-the-badge&labelColor=C95A36&color=20231F" alt="Focus on Minecraft tools" />
+      </p>
+      <p>
+        <a href="https://m5lb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-C95A36?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+        <a href="https://github.com/iM5LB"><img src="https://img.shields.io/badge/GitHub-20231F?style=for-the-badge&logo=github&logoColor=E5E5E5" alt="GitHub" /></a>
+        <a href="mailto:14554378@uofn.edu.om"><img src="https://img.shields.io/badge/Email-20231F?style=for-the-badge&logo=gmail&logoColor=E5E5E5" alt="Email" /></a>
+      </p>
+      <p>
+        Selected work: RespBot, RelishTravel, Healthcare Dashboard, FiveM Community Website
+      </p>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="./banner/avatar.png" alt="Abdullah Al-Ghawi" width="240" />
+      <p><sub>Available for the right project</sub></p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
